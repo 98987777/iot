@@ -9,7 +9,7 @@ Steps: -
 
 4.	Connect the Charger to the plug and to the raspberry pi
 
-5.	Take the bread board and the 330 ohm resistor (color sequence – Orange – Red- Brown - Golden)
+5.	Take the bread board and the 330 ohm resistor (color sequence – Orange – Orange- Brown - Golden)
 
 6.	Take Jumper Wires
     
