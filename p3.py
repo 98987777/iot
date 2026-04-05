@@ -43,6 +43,23 @@ Resistor ka dusra part ke niche LED ka longer leg – and shorter leg on inner p
 
 
 
+Pin Connection: -
+| Connection Step | Component / Wire        | Raspberry Pi Pin | GPIO / Type | Breadboard Position                     |
+|----------------|--------------------------|------------------|-------------|------------------------------------------|
+| 1              | Power (Jumper Wire)      | Pin 15           | GPIO 22     | Red line (right side outer section)      |
+| 2              | Ground (Jumper Wire)     | Pin 6            | GND         | Blue line (left side inner section)      |
+| 3              | Resistor (1st end)       | From Pin 15 line | -           | Same row as red line                     |
+| 4              | Resistor (2nd end)       | -                | -           | Right side inner section                 |
+| 5              | LED Long Leg (+)         | -                | -           | Same row as resistor end                 |
+| 6              | LED Short Leg (-)        | -                | -           | Other side of breadboard divider         |
+| 7              | Ground Connection        | From Pin 6 line  | GND         | Same row as LED short leg                |
+
+
+
+
+
+
+
 16.	Write the Program for the LED.
 # Blinking LED Program
 # Connect the LED to GPIO22 (i.e. Physical Pin 15)
