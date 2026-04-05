@@ -1,5 +1,6 @@
 # Installing Software In Raspberry Pi
-
+Raspberry Pi Pins -  Outer side - Even
+Inner Side - Odd
 #Steps
 
 1.	Take out the Mouse, Keyboard and Monitor wires from the CPU 
